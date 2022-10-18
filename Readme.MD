@@ -57,6 +57,7 @@ export PATH"
 ```  
 
 - Reinicie o terminal ou execute source .profile para aplicar as alterações
+
 ```bash
 sudo source ~/.profile                           
 ```
