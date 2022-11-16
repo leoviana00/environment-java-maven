@@ -53,7 +53,7 @@ sudo nano ~/.profile
 ```bash
 M2_HOME=/opt/maven                               
 PATH=${M2_HOME}/bin:${PATH}                      
-export PATH"        
+export PATH       
 ```  
 
 - Reinicie o terminal ou execute source .profile para aplicar as alterações
